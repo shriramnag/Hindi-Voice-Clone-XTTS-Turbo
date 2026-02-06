@@ -1,5 +1,8 @@
-TTS
-transformers<4.50.0
+TTS==0.22.0
+transformers==4.33.0
 torch==2.1.0
 torchaudio==2.1.0
-pydub
+pydub==0.25.1
+numpy==1.23.5
+libsndfile1
+unidecode
