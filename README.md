@@ -1,3 +1,8 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shriramnag/Hindi-Voice-Clone-XTTS-Turbo/blob/main/Hindi_Voice_Clone_Turbo.ipynb)
+
+
+
+
 # Hindi-Voice-Clone-XTTS-Turbo
 📝 रिपॉजिटरी डिस्क्रिप्शन (Short About) Hindi: कोक्वी XTTS-v2 और TTS 5 पर आधारित फ्री और सुपर-फास्ट हिंदी वॉयस क्लोनिंग टूल। इसमें ऑटोमैटिक साइलेंस रिमूवर और टर्बो स्पीड सपोर्ट शामिल है। 
 
